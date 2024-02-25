@@ -2,6 +2,9 @@
   <img src="/public/assets/PTEROLANG.png" alt="Illustration of Pterolang" />
 </p>
 
+
+<br/>
+
 # 🌐 PteroLangs
 
 **PteroLangs** is an exciting project aimed at making the **Pterodactyl panel** accessible to a wider audience by fully translating it into multiple languages. The goal is to enable users from around the world to benefit from all the panel's features in their native language, greatly enhancing their user experience. Through **PteroLangs**, the **Pterodactyl community** can become more diverse and inclusive, fostering better collaboration and broader adoption of this game server management platform.
@@ -12,8 +15,10 @@
 - ### [🔧 Installation Documentation](): SOON.
 - ### [🕓 Roadmap](): SOON.
 
-## 🔠 Supported languages
 
+<br/>
+
+## 🔠 Supported languages
 
 | Language | Supported Version | Link                                          |
 |----------|-------------------|-----------------------------------------------|

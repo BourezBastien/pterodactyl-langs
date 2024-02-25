@@ -2,6 +2,7 @@
   <img src="/public/assets/PTEROLANG.png" alt="Illustration of Pterolang" />
 </p>
 
+
 <br/>
 
 # 🌐 PteroLangs
@@ -14,6 +15,7 @@
 - ### [🔧 Installation Documentation](): SOON.
 - ### [🕓 Roadmap](): SOON.
 
+
 <br/>
 
 ## 🔠 Supported languages
@@ -24,3 +26,4 @@
 |          | 1.10.1            | [In progress](link_to_version_1.10.1)         |
 | Spanish  | 1.11.5            | [In progress](link_to_version_1.11.5)         |
 |          | 1.10.1            | [In progress](link_to_version_1.10.1)         |
+
